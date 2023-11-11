@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import NotFound from './pages/NotFound';
-import Contacts from './components/Contacts';
+import Contacts from './pages/Contacts';
 import ContactDetail from './pages/ContactDetail';
 
 const router = createBrowserRouter([
